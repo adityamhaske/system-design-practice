@@ -6,19 +6,19 @@ A structured repository for practicing and organizing software engineering inter
 
 This repository is organized into 5 primary categories of practice:
 
-1. **[High-Level System Design](file:///Users/adityamhaske/.gemini/antigravity-ide/scratch/system-design-practice/high-level-system-design/README.md)**
+1. **[High-Level System Design](file:///Users/adityamhaske/Documents/projects/system-design-practice/high-level-system-design/README.md)**
    * Large-scale distributed systems design.
    * Focuses on requirements gathering, API design, database schema, scale calculations, architecture, and handling bottlenecks.
-2. **[Low-Level Design (LLD / OOD)](file:///Users/adityamhaske/.gemini/antigravity-ide/scratch/system-design-practice/low-level-design/README.md)**
+2. **[Low-Level Design (LLD / OOD)](file:///Users/adityamhaske/Documents/projects/system-design-practice/low-level-design/README.md)**
    * Object-oriented design, class design, design patterns, and clean code.
    * Focuses on modularity, extensibility, concurrency, and SOLID principles.
-3. **[ML Product & Systems](file:///Users/adityamhaske/.gemini/antigravity-ide/scratch/system-design-practice/ml-product/README.md)**
+3. **[ML Product & Systems](file:///Users/adityamhaske/Documents/projects/system-design-practice/ml-product/README.md)**
    * Machine learning system design and product integration.
    * Focuses on feature engineering, model selection, evaluation metrics, serving architecture, and online evaluation (A/B testing).
-4. **[AI Coding & Agents](file:///Users/adityamhaske/.gemini/antigravity-ide/scratch/system-design-practice/ai-coding/README.md)**
+4. **[AI Coding & Agents](file:///Users/adityamhaske/Documents/projects/system-design-practice/ai-coding/README.md)**
    * Coding with AI assistance, RAG pipelines, Agentic workflows, LLM integration, and prompt engineering.
    * Focuses on programmatic interaction with LLMs, orchestration frameworks, and AI-native application architectures.
-5. **[Deep Dive Projects](file:///Users/adityamhaske/.gemini/antigravity-ide/scratch/system-design-practice/deep-dive-projects/README.md)**
+5. **[Deep Dive Projects](file:///Users/adityamhaske/Documents/projects/system-design-practice/deep-dive-projects/README.md)**
    * Detailed case studies of complex projects, custom engines, database internals, and performance-critical systems.
 
 ---
